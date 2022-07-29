@@ -1,2 +1,2 @@
 # ecom
-An E-Commmerce web app using vanilla JavaScript
+An E-Commerce web app using vanilla JavaScript
