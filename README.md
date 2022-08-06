@@ -1,6 +1,6 @@
 # ecom
 ## An E-Commerce shopping cart app using vanilla JavaScript.
-### Live link: [](https://shopping-cart-ecom.netlify.app)
+### Live link: [Click here](https://shopping-cart-ecom.netlify.app)
 
 ### Tools and Technologies used
 - HTML, CSS, JS(vanilla)
